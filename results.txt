@@ -1,0 +1,5 @@
+Computer Name: LAPTOP-1NBAU7IK
+Date of Test: 2023-12-01 10:07:56
+Bubble Sort Time: 6.545841 seconds
+Quick Sort Time: 0.013927 seconds
+
