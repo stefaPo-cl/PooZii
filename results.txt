@@ -1,0 +1,15 @@
+Computer Name: Steves_Lenovo
+Date of Test: 2023-12-01 10:06:52
+Bubble Sort Time: 0.000000 seconds
+Quick Sort Time: 0.000000 seconds
+
+Computer Name: Steves_Lenovo
+Date of Test: 2023-12-01 10:07:27
+Bubble Sort Time: 2.417269 seconds
+Quick Sort Time: 0.008006 seconds
+
+Computer Name: Steves_Lenovo
+Date of Test: 2023-12-01 10:08:04
+Bubble Sort Time: 2.402215 seconds
+Quick Sort Time: 0.005718 seconds
+
