@@ -3,3 +3,8 @@ Date of Test: 2023-12-01 10:19:38
 Bubble Sort Time: 6.449816 seconds
 Quick Sort Time: 0.015927 seconds
 
+Computer Name: Steves_Lenovo
+Date of Test: 2023-12-01 10:21:09
+Bubble Sort Time: 2.461692 seconds
+Quick Sort Time: 0.006954 seconds
+
